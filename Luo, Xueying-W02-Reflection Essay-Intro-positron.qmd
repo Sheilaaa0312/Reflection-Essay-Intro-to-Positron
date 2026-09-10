@@ -1,0 +1,103 @@
+---
+title: "W02-Reflection Essay-Intro to Positron"
+author: "Xueying Luo"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    toc-expand: 2
+    number-sections: true
+    theme: cosmo
+    code-line-numbers: true
+    code-fold: true
+    code-tools: true
+    code-overflow: wrap
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Essay Prompts
+
+## Q2.
+
+> Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?
+
+I found that Positron was easier to understand than I expected. The interface looks different from RStudio at first because of the Activity Bar and the way the side panels are arranged. However, the basic workflow still feels familiar. From the videos, I saw that users can write code in the editor, run it in the Console, and check variables or plots on the side.
+
+One thing I like about Positron is that it works with both R and Python. Right now, I mainly use R for class, but I may need Python later as I learn more about data analysis. I like the idea that I would not have to switch to a completely different program just to use another language.
+
+I also like the Data Explorer. In RStudio, I usually open a dataset and look through the rows and columns. Positron gives more ways to interact with the data. For example, users can sort the data, add filters, and check basic information about each variable. I thought the “convert to code” feature was especially interesting. The videos showed that after making changes in the Data Explorer, Positron can generate the code for those actions. I think this could be helpful while I am still learning because I can first see what happens to the data and then look at how the same action is written in code.
+
+Another feature that interests me is the built-in AI assistance. The videos showed that the AI can use information from the current project, such as the file being edited or an error in the Console. This seems more convenient than copying code and error messages into another website every time I need help.
+
+For now, I still feel more comfortable using RStudio because I have been using it longer and already know where everything is. I have only spent a short amount of time exploring Positron, so I am still getting familiar with it.
+
+# Q3.
+
+> In Step 4, the video demonstrates how you can use AI.
+>
+> 1.  Describe the various ways you can use AI inside Positron. Some are free while others are not.
+>
+> 2.  Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?
+>
+> 3.  I strongly recommend using GitHub Copilot, which is free if you apply for an education account.
+>
+>     1.  Apply for it and take a screenshot showing you were accepted into the education program.
+>
+>     2.  Play with it and do you find it helpful or distracting? Please e elaborate
+
+1.  **Describe the various ways you can use AI inside Positron. Some are free while others are not.**
+
+    One of the main AI tools is Positron Assistant. It works directly inside the IDE, so I can ask questions about my code without opening another website. It can also use the context of what I am working on, such as my open file, variables, and error messages. I think this is convenient because with other AI tools, I often have to copy and paste my code before asking for help.
+
+    Positron Assistant can help with debugging, writing code, and giving inline code suggestions. In the video, it was used to fix errors, improve a plot, and create a table. Another AI tool is Databot, which is more focused on exploring data. It can write and run R or Python code, look at the results, and suggest what to explore next. I think this could be helpful when I have a new dataset and do not know where to start.
+
+    One thing I noticed is that Positron Assistant still needs an AI provider before I can use it. Positron gives several options, such as OpenAI, Anthropic, and GitHub Copilot. The setup and cost depend on the provider. For example, OpenAI asks for an API key, while GitHub Copilot uses a Copilot subscription. I can currently use the free version of GitHub Copilot, but some models and features are locked unless I upgrade. So even though Positron itself is free, some of the AI services connected to it may not be.
+
+2.  **Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?**
+
+    Among the AI tools I have used, ChatGPT has been the most helpful for both my study and work. I use it quite often to check grammar, explain words or sentences, and summarize long or complicated readings. It is especially helpful when I am reading about a topic I am not very familiar with, such as medicine, engineering, or chemistry.
+
+    I have been using ChatGPT for a few years and later subscribed to Plus because I often needed to work with more files and use it more frequently. I also benefited from a student offer for ChatGPT Plus, which made the paid version easier to access as a student.
+
+    One feature I found especially useful was ChatGPT Voice. Before my recent IELTS test, I used it to practice a mock speaking test. I could answer questions out loud and continue the conversation like a real speaking session. This felt much closer to the actual test than typing my answers, so it was a useful way for me to prepare.
+
+    So, I would say ChatGPT is still the AI tool I use the most because I can use it for many different purposes. It helps me with writing, studying, understanding unfamiliar topics, and practicing English.
+
+3.  **I strongly recommend using GitHub Copilot, which is free if you apply for an education account.**
+
+    1.  **Apply for it and take a screenshot showing you were accepted into the education program.**
+
+        As shown in @fig-github, my GitHub Education application was approved on September 9, 2026, although my student benefits were still being activated.
+
+    ![My Github Education approval status](Github%20education%20program.png){#fig-github}
+
+    2.  **Play with it and do you find it helpful or distracting? Please elaborate**
+
+        ::: callout-note
+        My GitHub Education application was approved on September 9, but the student benefits are still being activated. GitHub says it may take up to 72 hours before I can redeem the full Copilot benefits, so for now I have only been using the free version.
+        :::
+
+        I find GitHub Copilot more helpful than distracting. One thing I like is that it can connect directly to the repositories linked to my GitHub account. When I start a chat, I can choose one of my repositories as context. This gives Copilot a better idea of what project I am talking about without making me copy and paste all of my code first.
+
+        I also connected my GitHub account with Positron and tried cloning the workshop repository directly into the program. I liked being able to bring the whole project into Positron and start working with the files right away. It makes them all feel more connected.
+
+        And I tried the “Write code” feature in Copilot. It can help create things such as a README file, a simple calculator, or other code for a project. I think this is useful because Copilot can do more than answer questions. It can also help me create something based on the project I am already working on.
+
+        I noticed that Copilot also offers different AI models, but some of them are locked unless I upgrade. Since my student benefits are still pending, I have not been able to fully try those options yet.
+
+        For me, Copilot is helpful because it saves time and already has more context about my GitHub project. However, I still want to understand the code before I use it, consider I am still learning R. Once my student benefits become active, I would like to try the full Copilot features inside Positron and see how useful they are for my coursework.
+
+# Appendix
+
+## GitHub Repository
+
+View my GitHub Repository
+
+## GitHub Pages
+
+View my web page on GitHub Pages
