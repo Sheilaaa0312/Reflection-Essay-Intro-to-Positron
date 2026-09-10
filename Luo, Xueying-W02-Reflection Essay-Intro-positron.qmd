@@ -96,8 +96,8 @@ For now, I still feel more comfortable using RStudio because I have been using i
 
 ## GitHub Repository
 
-View my GitHub Repository
+[View my GitHub Repository](https://github.com/Sheilaaa0312/Reflection-Essay-Intro-to-Positron)
 
 ## GitHub Pages
 
-View my web page on GitHub Pages
+[View my web page on GitHub Pages](https://sheilaaa0312.github.io/Reflection-Essay-Intro-to-Positron/)
